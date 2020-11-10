@@ -18,7 +18,7 @@ Welcome to my personal website! I am currently a Junior at Allegheny College maj
 
 ##CV
 
-![CV](/images/CV Katherine Leyonmark.jpg)
+![CV](/images/CV.jpg)
 
 ##Resume
 
