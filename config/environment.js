@@ -24,15 +24,15 @@ module.exports = function(environment) {
     },
 
     blog: {
-      title: 'empress-blog',
-      description: 'Static Blog System - Built with Ember',
-      coverImage: '/images/blog-cover.jpg',
+      title: 'Katherine Leyonmark',
+      description: 'A comprehensive website to learn more about me and my work!',
+      coverImage: '/images/websitebackground.jpg',
 
       navigation: [{
         label: 'Home',
         route: 'index'
       }, {
-        label: 'Built by Chris Manson',
+        label: 'Built by Katherine Leyonmark',
         route: 'page',
         id: 'chris-manson'
       }]
