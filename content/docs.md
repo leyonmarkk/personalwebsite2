@@ -22,8 +22,24 @@ Welcome to my personal website! If you would like to learn more about me, scroll
 
 ##Resume
 
+![resume1](/images/resume1.jpg)
+
+---
+
+![resume2](/images/resume2.jpg)
+
 
 
 ##Accomplishments
 
 This document lists out my honors and awards as well as activities that I have participated in in my years of schooling.
+
+![a1](/images/accomp1.jpg)
+
+---
+
+![a2](/images/accomp2.jpg)
+
+---
+
+![a3](/images/accomp3.jpg)
