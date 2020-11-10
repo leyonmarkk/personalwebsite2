@@ -1,6 +1,6 @@
 ---
 name: Katherine Leyonmark
-id: chris
+id: katherine
 image: /images/websitepic.jpg
 cover:
 website:
