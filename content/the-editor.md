@@ -1,6 +1,6 @@
 ---
 title: Editing Posts with empress-blog
-image: /images/writing.jpg
+image: /images/Statistics.jpg
 imageMeta:
   attribution:
   attributionLink:

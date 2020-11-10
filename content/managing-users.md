@@ -1,6 +1,6 @@
 ---
 title: Managing Ghost users
-image: /images/team.jpg
+image: /images/marketingnew.jpg
 imageMeta:
   attribution:
   attributionLink:
