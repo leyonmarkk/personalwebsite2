@@ -1,5 +1,5 @@
 ---
-title: Organising your content with tags
+title: Media and Visualization
 image: /images/medianew.jpg
 imageMeta:
   attribution:

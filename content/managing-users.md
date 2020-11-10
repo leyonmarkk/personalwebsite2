@@ -1,5 +1,5 @@
 ---
-title: Managing Ghost users
+title: Marketing Work
 image: /images/marketingnew.jpg
 imageMeta:
   attribution:

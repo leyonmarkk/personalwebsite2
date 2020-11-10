@@ -1,5 +1,5 @@
 ---
-title: Welcome to empress-blog
+title: Professional Documents
 image: /images/intrographic.jpg
 imageMeta:
   attribution:

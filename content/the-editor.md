@@ -1,5 +1,5 @@
 ---
-title: Editing Posts with empress-blog
+title: Statistical Work
 image: /images/Statistics.jpg
 imageMeta:
   attribution:
