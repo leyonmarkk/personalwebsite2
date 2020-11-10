@@ -14,7 +14,7 @@ tags:
 
 ## Welcome!
 
-Welcome to my personal website! I am currently a Junior at Allegheny College majoring in Economics and Integrative Informatics (current GPA 3.945). I am looking for future opportunities for internships and jobs in fields such as Data Analytics. I have gained knowledge of working with customer based data as well as raw data through various jobs and through my education. Here you will find projects that I have worked on, and a little more about me professionally and personally. Within this post you will find my Resume, CV and supporting accomplishments document.
+Welcome to my personal website! If you would like to learn more about me, scroll down or click "Built By Katherine Leyonmark" on the main page. On the main page you will find projects that I have worked on, and a little more about me professionally and personally. Within this post, you will find my Resume, CV and supporting accomplishments document.
 
 ##CV
 

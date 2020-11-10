@@ -16,7 +16,9 @@ tags:
 
 These are two examples of data visualization that I have created using the tool called Canva. I have previously used Canva to make graphics for when I was the VP of Marketing for a large club on campus. I would create informational flyers and social media posts using the tool. I was interested in learning more about data visualizations, so I tried using Canva to start. I made these two graphics as practice. I used a small set of data that was provided to me by a company. The first is a visualization of their net promoter score survey results. I used a pie chart and a bar chart to break down the results. The second graphic was based on their Customer Relationship Management from the NPS, and showed where they should focus their improvements and what they were doing well.
 
-![canva1](/images/NPS.jpg)
+![canva1](/images/canva1.jpg)
+
+---
 
 ![canva2](/images/canva2.jpg)
 
