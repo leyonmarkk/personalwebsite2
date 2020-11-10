@@ -1,6 +1,6 @@
 ---
-title: Built with ❤️ by Chris Manson
-image: /images/built-by.jpg
+title: Built with ❤️ by Katherine Leyonmark
+image: /images/websitepic.jpg
 imageMeta:
   attribution:
   attributionLink:
@@ -11,6 +11,8 @@ date: Tue Jun 12 2018 17:50:55 GMT+0100 (IST)
 tags:
 ---
 
-[Chris Manson](https://twitter.com/real_ate) is a Ember enthusiast and a member of the [Ember Core Learning Team](https://emberjs.com/team). empress-blog was an experimental project that came out of the work on converting the [Ember Guides](https://guides.emberjs.com) to be a static Ember application. empress-blog has since inspired the creation of [Guidemaker](https://github.com/empress/guidemaker) and is a driving force for the evolution of the Ember static site ecosystem.
+[Katherine Leyonmark](https://www.linkedin.com/in/katherine-leyonmark-944159144/) is currently a Junior at Allegheny College majoring in Economics and Integrative Informatics (current GPA 3.945). She is looking for future opportunities for internships and jobs in fields such as Data Analytics. Outside of academics, she is a Teaching Assistant for Marketing courses in the Economics Department, captain of the Cheerleading team, a member of Omicron Delta Epsilon (the Economics Honor Society), part of the Honors Program, a member of the college dance company and a part time barista.
 
-empress-blog is entirely open source so if you want to see how it works or if you would like to contribute please [check out the git repository](https://github.com/empress/empress-blog).
+Email: kleyonmark18@verizon.net
+Linkedin: https://www.linkedin.com/in/katherine-leyonmark-944159144/
+github: https://github.com/leyonmarkk
