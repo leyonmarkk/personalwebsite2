@@ -1,6 +1,6 @@
 ---
 title: Welcome to empress-blog
-image: /images/CV Katherine Leyonmark.jpg
+image: /images/intrographic.jpg
 imageMeta:
   attribution:
   attributionLink:
