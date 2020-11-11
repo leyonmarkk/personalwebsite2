@@ -1,12 +1,4 @@
-# empress-blog Netlify Casper Template  
-
-This repo is used to generate a new empress-blog with the Casper template using Netlify's template system
-
-If you want to get started right now with a new empress-blog just click the button below
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/empress/empress-blog-netlify-casper-template)
-
-
-## Technology
-
-If you are interested in how this works then go checkout the [empress-blog](https://github.com/empress/empress-blog) repo or reach out to me [on Twitter](https://twitter.com/real_ate)
+Katherine Leyonmark is currently a Junior at Allegheny College majoring in Economics and Integrative Informatics (current GPA 3.945). She is looking for future opportunities for internships and jobs in fields such as Data Analytics. Outside of academics, she is a Teaching Assistant for Marketing courses in the Economics Department, captain of the Cheerleading team, a member of Omicron Delta Epsilon (the Economics Honor Society), part of the Honors Program, a member of the college dance company and a part time barista.
+Email: kleyonmark18@verizon.net
+Linkedin: https://www.linkedin.com/in/katherine-leyonmark-944159144/
+github: https://github.com/leyonmarkk
