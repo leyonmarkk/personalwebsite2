@@ -1,6 +1,6 @@
 ---
 title: Built with ❤️ by Katherine Leyonmark
-image: /images/declare.jpg
+image: /images/cheer.jpg
 imageMeta:
   attribution:
   attributionLink:
