@@ -21,3 +21,5 @@ In my Principles of Marketing course, we had to create a full marketing plan for
 ## Trade Area Analysis
 
 In my Advanced Marketing course, our final assignment was to create a trading area analysis for a real city and a real store within that city. I am from Buffalo, NY and much like most people, I like the store Target. I chose to look at Target locations towards the center of the city. I had to research the customer base for the store, and the segments that the location would attract. I also had to research the surrounding area to look at competitors. Location is a crucial part of marketing, so this project was important to my education in marketing.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQWEHvDBAgBPcNBXQxqbJbdWMHfsR5zmqGHAylhd9CAFsenmlrVTG4MN8zNNZeBqGQTeGLlQ-emkM3F/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
