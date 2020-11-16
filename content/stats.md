@@ -9,6 +9,7 @@ authors:
   - katherine
 date: Tue Nov 10 2020
 tags:
+  - getting-started
 ---
 
 ##Research Paper
