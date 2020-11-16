@@ -26,7 +26,7 @@ module.exports = function(environment) {
     blog: {
       title: 'Katherine Leyonmark',
       description: 'A comprehensive website to learn more about me and my work!',
-      coverImage: '/images/websitebackground.jpg',
+      coverImage: '/newback.jpg',
 
       navigation: [{
         label: 'Home',
