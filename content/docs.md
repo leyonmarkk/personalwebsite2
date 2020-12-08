@@ -22,11 +22,11 @@ Welcome to my personal website! If you would like to learn more about me, scroll
 
 ##Resume
 
-![resume1](/images/resume1.jpg)
+![resume1](/images/newres1.jpg)
 
 ---
 
-![resume2](/images/resume2.jpg)
+![resume2](/images/newres2.jpg)
 
 
 
